@@ -10,8 +10,8 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - ./
-        unityVersion: ['2021.3.32f1'] # some version must be included for package testing
+          - Assets/Code/Tests/EditMode
+        unityVersion: [2021.3.32f1] # some version must be included for package testing
         testMode:
           - playmode
           - editmode
