@@ -11,6 +11,6 @@ public class ArithmeticShould
     [Test]
     public void SubstractTwoNumbers()
     {
-        Assert.AreEqual(4 - 5, -1);
+        Assert.AreEqual(4 - 5, 1);
     }
 }
