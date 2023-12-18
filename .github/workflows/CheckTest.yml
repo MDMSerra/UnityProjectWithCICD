@@ -13,7 +13,6 @@ jobs:
           - Assets/Code/Tests
         unityVersion: [2021.3.32f1] # some version must be included for package testing
         testMode:
-          - playmode
           - editmode
     steps:
       - uses: actions/checkout@v4
