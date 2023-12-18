@@ -2,6 +2,11 @@
 
 This repository contains the setup guide for integrating a Unity project with GitHub, GameCI, and itch.io for continuous integration and deployment. The project follows the guidelines and templates outlined by the GameCI community documentation available [here](https://game.ci/docs/getting-started/).
 
+## Infographic
+
+Feel free to contribute by enhancing the documentation or providing additional steps as needed.
+![How to integrate CICD in Unity game with Game CI and GitHub ](https://github.com/MDMSerra/UnityProjectWithCICD/assets/122322927/e50249ef-e9ae-4497-b7df-733f248b6553)
+
 ## Project Setup Steps
 | Step                                 | Description                                                               |
 |--------------------------------------|---------------------------------------------------------------------------|
@@ -16,8 +21,3 @@ This repository contains the setup guide for integrating a Unity project with Gi
 | 9. Configure GitHub action secrets   | Set up action secrets in GitHub containing variables such as UNITY_LICENSE, Unity email, Unity password, and the itch.io API key. |
 | 10. Implement Unity Test Runner      | Create a workflow utilizing Unity Test Runner to manage and execute tests within Unity. |
 | 11. Set up build and deployment workflow | Develop workflows for building the project and deploying it effectively. |
-
-## Infographic
-
-Feel free to contribute by enhancing the documentation or providing additional steps as needed.
-![How to integrate CICD in Unity game with Game CI and GitHub ](https://github.com/MDMSerra/UnityProjectWithCICD/assets/122322927/e50249ef-e9ae-4497-b7df-733f248b6553)
