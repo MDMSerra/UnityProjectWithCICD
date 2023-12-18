@@ -5,7 +5,7 @@ This repository contains the setup guide for integrating a Unity project with Gi
 ## Infographic
 
 Feel free to contribute by enhancing the documentation or providing additional steps as needed.
-![How to integrate CICD in Unity game with Game CI and GitHub ](https://github.com/MDMSerra/UnityProjectWithCICD/assets/122322927/e50249ef-e9ae-4497-b7df-733f248b6553)
+![How to integrate CICD in Unity game with Game CI and GitHub Maria Serra ](https://github.com/MDMSerra/UnityProjectWithCICD/assets/122322927/ea5c61b0-d25c-4a3a-bbad-d635323f794c)
 
 ## Project Setup Steps
 | Step                                 | Description                                                               |
