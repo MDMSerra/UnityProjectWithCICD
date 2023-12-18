@@ -1,4 +1,4 @@
-name: GameCI Template 🎮
+name: Build and Deploy in ItchIO 🎮
 
 on: push
 
@@ -76,7 +76,7 @@ jobs:
        env:
          BUTLER_CREDENTIALS: ${{ secrets.ITCH_IO_API_KEY }}
          CHANNEL: HTML
-         ITCH_GAME: CICD-Demo
-         ITCH_USER: mar0212
+         ITCH_GAME: CICD-DEMO
+         ITCH_USER: MAR0212
          BRANCH: itch-io
          PACKAGE: build/WebGL
